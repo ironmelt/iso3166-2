@@ -1045,8 +1045,7 @@
       {
         "alpha2": "es",
         "alpha3": "spa",
-        "localizedShortName": "Argentina",
-        "determiner": "la"
+        "localizedShortName": "Argentina (la)"
       }
     ],
     "subdivisions": [
@@ -2649,8 +2648,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Belgique",
-        "determiner": "la"
+        "localizedShortName": "Belgique (la)"
       },
       {
         "alpha2": "nl",
@@ -2766,8 +2764,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Burkina Faso",
-        "determiner": "le"
+        "localizedShortName": "Burkina Faso (le)"
       }
     ],
     "subdivisions": [
@@ -3439,8 +3436,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Burundi",
-        "determiner": "le"
+        "localizedShortName": "Burundi (le)"
       },
       {
         "alpha2": "rn",
@@ -3679,8 +3675,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Bénin",
-        "determiner": "le"
+        "localizedShortName": "Bénin (le)"
       }
     ],
     "subdivisions": [
@@ -4021,8 +4016,7 @@
       {
         "alpha2": "pt",
         "alpha3": "por",
-        "localizedShortName": "Brasil",
-        "determiner": "o"
+        "localizedShortName": "Brasil (o)"
       }
     ],
     "subdivisions": [
@@ -4202,8 +4196,7 @@
       {
         "alpha2": "en",
         "alpha3": "eng",
-        "localizedShortName": "Bahamas",
-        "determiner": "the"
+        "localizedShortName": "Bahamas (the)"
       }
     ],
     "subdivisions": [
@@ -4982,8 +4975,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Canada",
-        "determiner": "le"
+        "localizedShortName": "Canada (le)"
       }
     ],
     "subdivisions": [
@@ -5156,8 +5148,7 @@
       {
         "alpha2": "en",
         "alpha3": "eng",
-        "localizedShortName": "Cocos (Keeling) Islands",
-        "determiner": "the"
+        "localizedShortName": "Cocos (Keeling) Islands (the)"
       }
     ],
     "subdivisions": []
@@ -5174,8 +5165,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Congo",
-        "determiner": "la République démocratique du"
+        "localizedShortName": "Congo (la République démocratique du)"
       }
     ],
     "subdivisions": [
@@ -5349,8 +5339,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "République centrafricaine",
-        "determiner": "la"
+        "localizedShortName": "République centrafricaine (la)"
       },
       {
         "alpha2": "sg",
@@ -5577,8 +5566,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Congo",
-        "determiner": "le"
+        "localizedShortName": "Congo (le)"
       }
     ],
     "subdivisions": [
@@ -5668,26 +5656,22 @@
       {
         "alpha2": "de",
         "alpha3": "deu",
-        "localizedShortName": "Schweiz",
-        "determiner": "die"
+        "localizedShortName": "Schweiz (die)"
       },
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Suisse",
-        "determiner": "la"
+        "localizedShortName": "Suisse (la)"
       },
       {
         "alpha2": "it",
         "alpha3": "ita",
-        "localizedShortName": "Svizzera",
-        "determiner": "la"
+        "localizedShortName": "Svizzera (la)"
       },
       {
         "alpha2": "rm",
         "alpha3": "roh",
-        "localizedShortName": "Svizra",
-        "determiner": "la"
+        "localizedShortName": "Svizra (la)"
       }
     ],
     "subdivisions": [
@@ -5897,8 +5881,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Côte d'Ivoire",
-        "determiner": "la"
+        "localizedShortName": "Côte d'Ivoire (la)"
       }
     ],
     "subdivisions": [
@@ -5999,8 +5982,7 @@
       {
         "alpha2": "en",
         "alpha3": "eng",
-        "localizedShortName": "Cook Islands",
-        "determiner": "the"
+        "localizedShortName": "Cook Islands (the)"
       }
     ],
     "subdivisions": []
@@ -6138,8 +6120,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Cameroun",
-        "determiner": "le"
+        "localizedShortName": "Cameroun (le)"
       }
     ],
     "subdivisions": [
@@ -8250,8 +8231,7 @@
       {
         "alpha2": "es",
         "alpha3": "spa",
-        "localizedShortName": "República Dominicana",
-        "determiner": "la"
+        "localizedShortName": "República Dominicana (la)"
       }
     ],
     "subdivisions": [
@@ -8907,8 +8887,7 @@
       {
         "alpha2": "es",
         "alpha3": "spa",
-        "localizedShortName": "Ecuador",
-        "determiner": "el"
+        "localizedShortName": "Ecuador (el)"
       }
     ],
     "subdivisions": [
@@ -10639,8 +10618,7 @@
       {
         "alpha2": "en",
         "alpha3": "eng",
-        "localizedShortName": "Micronesia",
-        "determiner": "Federated States of"
+        "localizedShortName": "Micronesia (Federated States of)"
       }
     ],
     "subdivisions": [
@@ -10703,8 +10681,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "France",
-        "determiner": "la"
+        "localizedShortName": "France (la)"
       }
     ],
     "subdivisions": [
@@ -11583,8 +11560,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Gabon",
-        "determiner": "le"
+        "localizedShortName": "Gabon (le)"
       }
     ],
     "subdivisions": [
@@ -11656,8 +11632,7 @@
       {
         "alpha2": "en",
         "alpha3": "eng",
-        "localizedShortName": "United Kingdom of Great Britain and Northern Ireland",
-        "determiner": "the"
+        "localizedShortName": "United Kingdom of Great Britain and Northern Ireland (the)"
       }
     ],
     "subdivisions": [
@@ -13398,8 +13373,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Guyane française",
-        "determiner": "la "
+        "localizedShortName": "Guyane française (la )"
       }
     ],
     "subdivisions": []
@@ -13583,8 +13557,7 @@
       {
         "alpha2": "en",
         "alpha3": "eng",
-        "localizedShortName": "Gambia",
-        "determiner": "the"
+        "localizedShortName": "Gambia (the)"
       }
     ],
     "subdivisions": [
@@ -13638,8 +13611,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Guinée",
-        "determiner": "la"
+        "localizedShortName": "Guinée (la)"
       }
     ],
     "subdivisions": [
@@ -13935,8 +13907,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Guadeloupe",
-        "determiner": "la"
+        "localizedShortName": "Guadeloupe (la)"
       }
     ],
     "subdivisions": []
@@ -13958,14 +13929,12 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Guinée équatoriale",
-        "determiner": "la"
+        "localizedShortName": "Guinée équatoriale (la)"
       },
       {
         "alpha2": "pt",
         "alpha3": "por",
-        "localizedShortName": "Guiné Equatorial",
-        "determiner": "a"
+        "localizedShortName": "Guiné Equatorial (a)"
       }
     ],
     "subdivisions": [
@@ -14464,8 +14433,7 @@
       {
         "alpha2": "pt",
         "alpha3": "por",
-        "localizedShortName": "Guiné-Bissau",
-        "determiner": "a"
+        "localizedShortName": "Guiné-Bissau (a)"
       }
     ],
     "subdivisions": [
@@ -16474,8 +16442,7 @@
       {
         "alpha2": "en",
         "alpha3": "eng",
-        "localizedShortName": "British Indian Ocean Territory",
-        "determiner": "the"
+        "localizedShortName": "British Indian Ocean Territory (the)"
       }
     ],
     "subdivisions": []
@@ -16963,8 +16930,7 @@
       {
         "alpha2": "it",
         "alpha3": "ita",
-        "localizedShortName": "Italia",
-        "determiner": "l'"
+        "localizedShortName": "Italia (l')"
       }
     ],
     "subdivisions": [
@@ -19557,8 +19523,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Comores",
-        "determiner": "les"
+        "localizedShortName": "Comores (les)"
       },
       {
         "localizedShortName": "Komori"
@@ -20181,8 +20146,7 @@
       {
         "alpha2": "en",
         "alpha3": "eng",
-        "localizedShortName": "Cayman Islands",
-        "determiner": "the"
+        "localizedShortName": "Cayman Islands (the)"
       }
     ],
     "subdivisions": []
@@ -22530,8 +22494,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Luxembourg",
-        "determiner": "le"
+        "localizedShortName": "Luxembourg (le)"
       },
       {
         "alpha2": "lb",
@@ -24977,8 +24940,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Saint-Martin",
-        "determiner": "partie française"
+        "localizedShortName": "Saint-Martin (partie française)"
       }
     ],
     "subdivisions": []
@@ -25059,8 +25021,7 @@
       {
         "alpha2": "en",
         "alpha3": "eng",
-        "localizedShortName": "Marshall Islands",
-        "determiner": "the"
+        "localizedShortName": "Marshall Islands (the)"
       },
       {
         "alpha2": "mh",
@@ -25958,8 +25919,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Mali",
-        "determiner": "le"
+        "localizedShortName": "Mali (le)"
       }
     ],
     "subdivisions": [
@@ -26360,8 +26320,7 @@
       {
         "alpha2": "en",
         "alpha3": "eng",
-        "localizedShortName": "Northern Mariana Islands",
-        "determiner": "the"
+        "localizedShortName": "Northern Mariana Islands (the)"
       }
     ],
     "subdivisions": []
@@ -26377,8 +26336,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Martinique",
-        "determiner": "la"
+        "localizedShortName": "Martinique (la)"
       }
     ],
     "subdivisions": []
@@ -28789,8 +28747,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Nouvelle-Calédonie",
-        "determiner": "la"
+        "localizedShortName": "Nouvelle-Calédonie (la)"
       }
     ],
     "subdivisions": []
@@ -28807,8 +28764,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Niger",
-        "determiner": "le"
+        "localizedShortName": "Niger (le)"
       }
     ],
     "subdivisions": [
@@ -30572,8 +30528,7 @@
       {
         "alpha2": "es",
         "alpha3": "spa",
-        "localizedShortName": "Perú",
-        "determiner": "el"
+        "localizedShortName": "Perú (el)"
       },
       {
         "alpha2": "qu",
@@ -31064,8 +31019,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Polynésie française",
-        "determiner": "la"
+        "localizedShortName": "Polynésie française (la)"
       }
     ],
     "subdivisions": []
@@ -31241,8 +31195,7 @@
       {
         "alpha2": "en",
         "alpha3": "eng",
-        "localizedShortName": "Philippines",
-        "determiner": "the"
+        "localizedShortName": "Philippines (the)"
       },
       {
         "alpha2": "tl",
@@ -33454,8 +33407,7 @@
       {
         "alpha2": "es",
         "alpha3": "spa",
-        "localizedShortName": "Paraguay",
-        "determiner": "el"
+        "localizedShortName": "Paraguay (el)"
       },
       {
         "alpha2": "gn",
@@ -33659,8 +33611,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Réunion",
-        "determiner": "La"
+        "localizedShortName": "Réunion (La)"
       }
     ],
     "subdivisions": []
@@ -35393,8 +35344,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Rwanda",
-        "determiner": "le"
+        "localizedShortName": "Rwanda (le)"
       },
       {
         "alpha2": "rw",
@@ -35702,8 +35652,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Seychelles",
-        "determiner": "les"
+        "localizedShortName": "Seychelles (les)"
       }
     ],
     "subdivisions": [
@@ -38145,8 +38094,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Sénégal",
-        "determiner": "le"
+        "localizedShortName": "Sénégal (le)"
       }
     ],
     "subdivisions": [
@@ -38666,8 +38614,7 @@
       {
         "alpha2": "en",
         "alpha3": "eng",
-        "localizedShortName": "Sint Maarten",
-        "determiner": "Dutch part"
+        "localizedShortName": "Sint Maarten (Dutch part)"
       },
       {
         "alpha2": "nl",
@@ -38875,8 +38822,7 @@
       {
         "alpha2": "en",
         "alpha3": "eng",
-        "localizedShortName": "Turks and Caicos Islands",
-        "determiner": "the"
+        "localizedShortName": "Turks and Caicos Islands (the)"
       }
     ],
     "subdivisions": []
@@ -38898,8 +38844,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Tchad",
-        "determiner": "le"
+        "localizedShortName": "Tchad (le)"
       }
     ],
     "subdivisions": [
@@ -39201,8 +39146,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Terres australes françaises",
-        "determiner": "les"
+        "localizedShortName": "Terres australes françaises (les)"
       }
     ],
     "subdivisions": []
@@ -39219,8 +39163,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Togo",
-        "determiner": "le"
+        "localizedShortName": "Togo (le)"
       }
     ],
     "subdivisions": [
@@ -42640,8 +42583,7 @@
       {
         "alpha2": "en",
         "alpha3": "eng",
-        "localizedShortName": "United States Minor Outlying Islands",
-        "determiner": "the"
+        "localizedShortName": "United States Minor Outlying Islands (the)"
       }
     ],
     "subdivisions": [
@@ -42713,8 +42655,7 @@
       {
         "alpha2": "en",
         "alpha3": "eng",
-        "localizedShortName": "United States of America",
-        "determiner": "the"
+        "localizedShortName": "United States of America (the)"
       }
     ],
     "subdivisions": [
@@ -43080,8 +43021,7 @@
       {
         "alpha2": "es",
         "alpha3": "spa",
-        "localizedShortName": "Uruguay",
-        "determiner": "el"
+        "localizedShortName": "Uruguay (el)"
       }
     ],
     "subdivisions": [
@@ -43314,8 +43254,7 @@
       {
         "alpha2": "it",
         "alpha3": "ita",
-        "localizedShortName": "Santa Sede",
-        "determiner": "la"
+        "localizedShortName": "Santa Sede (la)"
       },
       {
         "alpha2": "la",
@@ -43558,8 +43497,7 @@
       {
         "alpha2": "en",
         "alpha3": "eng",
-        "localizedShortName": "Virgin Islands",
-        "determiner": "British"
+        "localizedShortName": "Virgin Islands (British)"
       }
     ],
     "subdivisions": []
@@ -43576,8 +43514,7 @@
       {
         "alpha2": "en",
         "alpha3": "eng",
-        "localizedShortName": "Virgin Islands",
-        "determiner": "U.S."
+        "localizedShortName": "Virgin Islands (U.S.)"
       }
     ],
     "subdivisions": []
@@ -44001,8 +43938,7 @@
       {
         "alpha2": "fr",
         "alpha3": "fra",
-        "localizedShortName": "Vanuatu",
-        "determiner": "le"
+        "localizedShortName": "Vanuatu (le)"
       }
     ],
     "subdivisions": [
