@@ -1,10 +1,12 @@
 # ISO 3166-2 Database
 
-This repository contains an up-to-date, complete collection of the data contained in the IS0 3166-2 Database, providing extensive information of all countries and their subdivisions around the world.
+This repository contains an up-to-date, complete collection of the data contained in the IS0 3166-2
+Database, providing extensive information of all countries and their subdivisions around the world.
 
 ### Included data
 
-The data contained includes information for all **assigned** country codes, with records provided in the following for:
+The data contained includes information for all **assigned** country codes, with records provided in
+the following for:
 
 ```javascript
 {
@@ -17,14 +19,14 @@ The data contained includes information for all **assigned** country codes, with
                                     // Official country name (nullable)
         "alpha3": "NOR",            // ISO 3166-1 Alpha 3 country code
         "un": "578",                // UN Country Code
-                                    // See: https://unstats.un.org/unsd/methodology/m49/overview/
+                                    // : https://unstats.un.org/unsd/methodology/m49/overview/
         "independent": true,        // True if the country is independent (UN source)
         "languages": [              // Localized country names
             {
                 "alpha2": "nb",     // ISO 639-1 language code (nullable)
-                                    // See: https://www.loc.gov/standards/iso639-2/php/English_list.php
+                                    // : https://www.loc.gov/standards/iso639-2/php/English_list.php
                 "alpha3": "nob",    // ISO 639-2 language code (nullable)
-                                    // See: https://www.loc.gov/standards/iso639-2/php/English_list.php
+                                    // : https://www.loc.gov/standards/iso639-2/php/English_list.php
                 "localizedShortName": "Norge"
                                     // Localized country name
             },
