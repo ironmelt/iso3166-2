@@ -58,8 +58,20 @@ The data contained includes information for all **assigned** country codes, with
             },
         ],
     },
-    "RS": {
+    "FR": {
+        "subdivisions": [
+            {
+                "type": "metropolitan department",
+                "iso": "FR-75",
+                "name": "Paris",
+                "language": "fr",
+                "parent": "FR-IDF"  // Parent ISO 3166-2 subdivision code (nullable)
+            },
+            ...
+        ],
         ...
+    };
+    "RS": {
         "subdivisions": [
             {
                 "type": "city",
@@ -75,6 +87,7 @@ The data contained includes information for all **assigned** country codes, with
             },
             ...
         ],
+        ...
     },
 }
 ```
